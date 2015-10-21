@@ -1,0 +1,16 @@
+{
+  "name": "InterativaDigital/bitbucket-bulk-add-webhook",
+  "description": "PHP script to add a specific webhook to all bitbucket account repositories at once. Can be used with a cron job to keep them up-to-date.",
+  "homepage": "https://github.com/InterativaDigital/bitbucket-bulk-add-webhook",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Victor Nogueira",
+      "email": "victor@interativadigital.com.br"
+    }
+  ],
+  "require": {
+    "gentle/bitbucket-api": "0.7.0"
+  }
+}
